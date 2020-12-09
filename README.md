@@ -21,9 +21,11 @@ Developed By Python & OpenGL. The simulator object is a group of masses and spri
 ![Image of a cube](/EA1.png)
 ### Phase B -> Evolving a Robot with a fixed Morphology
 In this work a four-leg robot is Created. Each leg is made up of two tetrahedrons. In addition, the main body of the robot is also a  tetrahedron, of which the bottom face is a square instead of  a triangle.  To sum up, there are 13 masses and 34 springs in the robot.
-For each spring, its rest length follows the formula $ L=\ L_0\ast(1+a\ast sin\funcapply(wt+c))$
+For each spring, its rest length follows the formula $ L=\ L_0\ast(1+a\ast sin(wt+c))$
+The parameters k, a, w, c are evolved in the algorithm to achieve a faster motion.
 ![Image of a series of Robots](/EA2.png)
-
+### Phase C -> Evolving a Robot with variable Morphology
+In this part, tree stucture is used as the representation. For each robot, its shape, number of springs and spring parameters are all design to be evolvable in the algorithm.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Josepher-Echo/Josepher-Echo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
