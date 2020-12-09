@@ -1,3 +1,14 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 ## Welcome to My HomePage!
 Hello! This is Chao Zhang, a master student in Columbia University. I am currently proceeding to the degree in Mechanical Engineering.
 
@@ -7,9 +18,11 @@ A project review of the course I recently took. It is **EVOLUTIONARY COMPUTATION
 ## EA Project Review
 ### Phase A -> Physical Simulator Creation
 Developed By Python & OpenGL. The simulator object is a group of masses and springs. The ground is simply defined as a spring covering the whole ground.
-![Image of Yaktocat](/EA1.png)
+![Image of a cube](/EA1.png)
 ### Phase B -> Evolving a Robot with a fixed Morphology
-
+In this work a four-leg robot is Created. Each leg is made up of two tetrahedrons. In addition, the main body of the robot is also a  tetrahedron, of which the bottom face is a square instead of  a triangle.  To sum up, there are 13 masses and 34 springs in the robot.
+For each spring, its rest length
+![Image of a series of Robots](/EA2.png)
 
 ## Welcome to GitHub Pages
 
