@@ -1,3 +1,9 @@
+## Welcome to My HomePage!
+Hello! This is Chao Zhang, a master student in Columbia University. I am currently proceeding to the degree in Mechanical Engineering.
+
+## What is this Page About?
+A project review of the course I recently took. It is **EVOLUTIONARY COMPUTATION&DESIGN AUTOMATION**, a wonderful course and an exciting challenge.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Josepher-Echo/Josepher-Echo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
