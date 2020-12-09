@@ -5,9 +5,10 @@ Hello! This is Chao Zhang, a master student in Columbia University. I am current
 A project review of the course I recently took. It is **EVOLUTIONARY COMPUTATION&DESIGN AUTOMATION**, a wonderful course and an exciting challenge.
 
 ## EA Project Review
-## Phase A -> Physical Simulator Creation
+### Phase A -> Physical Simulator Creation
 Developed By Python & OpenGL. The simulator object is a group of masses and springs. The ground is simply defined as a spring covering the whole ground.
-![](/EA1.png)
+![Image of Yaktocat](/EA1.png)
+### Phase B -> Evolving a Robot with a fixed Morphology
 
 
 ## Welcome to GitHub Pages
