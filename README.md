@@ -21,7 +21,8 @@ Developed By Python & OpenGL. The simulator object is a group of masses and spri
 ![Image of a cube](/EA1.png)
 ### Phase B -> Evolving a Robot with a fixed Morphology
 In this work a four-leg robot is Created. Each leg is made up of two tetrahedrons. In addition, the main body of the robot is also a  tetrahedron, of which the bottom face is a square instead of  a triangle.  To sum up, there are 13 masses and 34 springs in the robot.
-For each spring, its rest length
+For each spring, its rest length follows the formula below.
+$ e = m c^2 $
 ![Image of a series of Robots](/EA2.png)
 
 ## Welcome to GitHub Pages
