@@ -4,6 +4,12 @@ Hello! This is Chao Zhang, a master student in Columbia University. I am current
 ## What is this Page About?
 A project review of the course I recently took. It is **EVOLUTIONARY COMPUTATION&DESIGN AUTOMATION**, a wonderful course and an exciting challenge.
 
+## EA Project Review
+## Phase A -> Physical Simulator Creation
+Developed By Python & OpenGL. The simulator object is a group of masses and springs. The ground is simply defined as a spring covering the whole ground.
+![](/EA1.png)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Josepher-Echo/Josepher-Echo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
